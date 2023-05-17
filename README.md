@@ -1,3 +1,3 @@
 **Animatronics**
 
-![Eye Moving](/images/output.gif "Eye Moves")
+![Eye Moving](/images/IMG_2241.gif "Eye Moves")
